@@ -5,10 +5,6 @@ pubDate: '2026-05-07'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
 
-Welcome to my blog. This is my first post.
-
 5/7/2026: Set up this website for the first time, will be documenting my coding projects from here
 
-## A Section Header
 
-Add as many sections as you like.
