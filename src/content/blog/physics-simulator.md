@@ -1,7 +1,7 @@
 ---
 title: 'Building a Gravity Physics Simulator in Java'
 description: 'How I built a 2D physics simulator with gravity, wall collisions, and bouncing bodies using Java and JavaFX.'
-pubDate: '2026-05-07'
+pubDate: '2026-05-10'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 ---
 
